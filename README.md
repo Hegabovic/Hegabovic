@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Hegabovic/convoychat">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Defmc&theme=gotham&layout=compact&include_all_commits=true" height="150"/>
 </a>
