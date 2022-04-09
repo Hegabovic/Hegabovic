@@ -51,4 +51,12 @@ Here are some ideas to get you started:
 
 </div>
 
+## Connect with me:
+<p align="left">
+<a href = "https://www.linkedin.com/in/hegab192/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://github.com/Hegabovic"><img src="https://img.icons8.com/color/48/000000/github.png"/></a>
+<a href = "https://www.facebook.com/hegab192/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
+<a href = "https://twitter.com/Hegabien"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+</p>
+
 <!--  <img  align="right" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hegabovic&theme=blue-green"/> -->
