@@ -59,10 +59,10 @@ Here are some ideas to get you started:
 <a href = "https://twitter.com/Hegabien"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
 
-## ❤ Views and Followers
+<!-- ## ❤ Views and Followers
 <a href="https://github.com/Hegabovic/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Hegabovic">
-</a>
+</a> -->
 <a href="https://github.com/Hegabovic?tab=followers"><img src="https://img.shields.io/github/followers/Hegabovic?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <!--  <img  align="right" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hegabovic&theme=blue-green"/> -->
