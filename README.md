@@ -1,10 +1,48 @@
+<dev>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hegabovic</h1>
-<!-- <img src="https://github.com/erikaheidi/erikaheidi/blob/master/erika_illustrated_avatar.png" align="right"> -->
-<h3 align="left">I'm a Software Engineer from Egypt.</h3>
+<p align="center">
+	<a href="https://www.facebook.com/hegab192"><img src="https://img.shields.io/badge/facebook-Hegabovic-%231FA1F1 style=flat&logo=facebook&logoColor=white"/></a>
+    <a href="https://twitter.com/Hegabien"><img src="https://img.shields.io/badge/twitter-@hegabovic-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/abdullah-hegab/"><img src="https://img.shields.io/badge/linkedin-Hegabovic-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+</p>
+  <p> i'm <strong> Abdullah Hegab </strong> , a  passionate <strong> Full-stack Developer </strong> and a freelance <strong> software engineer</strong> from Egypt. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I take great care in the experience, architecture, and code quality of the things I build. </p>
+</dev>
+
+
+<img src="https://github.com/Hegabovic/Hegabovic/blob/main/coder.png" align="right" width="45%"/>
+
+<br />
+<br />
+
+
+- 🔭 I’m currently working on **Java Based Automation System**
+- 🌱 I’m currently learning **AWS** 
+- 💬 Ask me about **Java** & **C#**
+- 📫 How to reach me: just message me on [whatsapp](https://api.whatsapp.com/send/?phone=+201203000018)
+- ⚡ Fun fact: The first computer virus was a Creeper
+
+<br />
+<br />
 
 
 ### 🔭 Languages and Tools:
+
+<!-- <img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="Spring Boot" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
+<img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="left" alt="Postgresql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+<img align="left" alt="AWS" width="30px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
+<img align="left" alt="GCP" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlecloud.svg" />
+<img align="left" alt="Angular" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+<img align="left" alt="Mysql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="GraphQL" width="30px" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" />
+<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Typescript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+ -->
 <div style="display: flex;">
+
+  
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
@@ -25,7 +63,7 @@
   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   
-
+<!-- #### if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈 -->
 
   
 <!--   
@@ -51,14 +89,14 @@ Here are some ideas to get you started:
 
 </div>
 
-## Connect with me:
+<!-- ## Connect with me:
 <p align="left">
 <a href = "https://www.linkedin.com/in/abdullah-hegab/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://github.com/Hegabovic"><img src="https://img.icons8.com/color/48/000000/github.png"/></a>
 <a href = "https://www.facebook.com/hegab192/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
 <a href = "https://twitter.com/Hegabien"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
-
+ -->
 <!-- ## ❤ Views and Followers
 <a href="https://github.com/Hegabovic/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Hegabovic">
