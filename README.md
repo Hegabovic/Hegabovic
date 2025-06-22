@@ -16,8 +16,8 @@
 
 
 - 🔭 I’m currently working on **clinic management system SAAS APPLICATION**
-- 🌱 I’m currently learning **AWS** 
-- 💬 Ask me about **NODEJS** & **PHP**
+- 🌱 I’m currently learning **Devops** 
+- 💬 Ask me about **JAVA** & **PHP**
 - 📫 How to reach me: just message me on [whatsapp](https://api.whatsapp.com/send/?phone=+201203000018)
 - ⚡ Fun fact: The first computer virus was a Creeper
 
